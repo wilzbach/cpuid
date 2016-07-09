@@ -11,3 +11,6 @@ cpuid
 dub.selections.json
 
 *.sublime-project
+.generated
+web
+index.html
